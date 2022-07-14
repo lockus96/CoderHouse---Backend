@@ -72,3 +72,5 @@ console.log(person1.countPets())
 console.log(person1.countBooks())
 console.log(person1.getBooksName())
 
+
+// 1
